@@ -1,8 +1,8 @@
 a,b,c = map(int,input().split())
 
-if a<b:
+if b<c:
     print('Bus')
-elif a>b:
+elif b>c:
     print('Subway')
 else:
     print('Anything')
