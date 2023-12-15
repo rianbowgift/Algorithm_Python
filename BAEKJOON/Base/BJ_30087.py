@@ -7,7 +7,7 @@ a= {
     "Startup": 501,
     "TestStrategy": 105
 }
-
+#
 b = int(input())
 for i in range(b):
     c = input()
