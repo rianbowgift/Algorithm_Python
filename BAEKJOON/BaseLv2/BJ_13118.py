@@ -10,3 +10,5 @@ for i in a:
         x=x+1
 if x==4:
     print(0)
+
+#
