@@ -26,7 +26,7 @@ a = {1995: 'ITMO',
 
 b = int(input())
 
-print(a[b])a = {1995: 'ITMO',
+a = {1995: 'ITMO',
 1996: 'SPbSU',
 1997: 'SPbSU',
 1998: 'ITMO',
